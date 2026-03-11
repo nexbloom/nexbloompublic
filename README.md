@@ -8,9 +8,6 @@ I specialise in stabilising and improving enterprise systems, with experience in
 • SQL Server
 • Enterprise integrations
 • Legacy system modernisation
-• Architecture reviews
-• Security & compliance improvements
-
-Currently working on system integrations and platform improvements.
+• Report Writing
 
 Based in South Africa.
